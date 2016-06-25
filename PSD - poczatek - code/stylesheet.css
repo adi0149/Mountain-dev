@@ -1,0 +1,80 @@
+
+/* ********************************************************************
+GENERAL
+******************************************************************** */
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0rem;
+	padding: 0rem;
+	font-family: "Century";
+	color: #FFFFFF;
+
+}
+
+.header-for-readers {
+	display: none;
+	margin: 0rem;
+}
+
+
+/* ********************************************************************
+HEADER
+******************************************************************** */
+
+/*.page-header {
+	position: absolute;  - Podnosi mi background do góry, ale jak to zrobię to nie mogę wycentrować listy.
+}
+
+
+/* ********************************************************************
+NAV
+******************************************************************** */
+
+.page-nav {
+}
+
+.page-nav .navigation-menu {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+
+
+}
+
+ .page-nav .navigation-menu li {
+	text-transform: uppercase;
+	display: inline-block;
+	float: none;
+	max-width: 100%;
+}
+
+.page-nav .navigation-menu li a{
+	text-decoration: none;
+	/*color: #FFFFFF;*/
+	padding: .2em 1em;
+}
+
+/* ********************************************************************
+MAIN SECTRION
+******************************************************************** */
+
+.main .main-header {
+	background: url(img/mainback.png) no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	padding-top: 466px;
+}
+
+.main .main-header .main-title {
+	margin: 0;
+}
+
+/* ********************************************************************
+FOOTER
+******************************************************************** */
+
+
